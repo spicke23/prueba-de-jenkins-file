@@ -1,0 +1,6 @@
+/home/ext_acvalenzuela/Documentos/TalentoDigital/fullstackapp/apispringdevops/src/main/java/cl/kibernumacademy/apirest/models/entity/Student.java
+/home/ext_acvalenzuela/Documentos/TalentoDigital/fullstackapp/apispringdevops/src/main/java/cl/kibernumacademy/apirest/models/dao/IStudentDao.java
+/home/ext_acvalenzuela/Documentos/TalentoDigital/fullstackapp/apispringdevops/src/main/java/cl/kibernumacademy/apirest/models/services/StudentServiceImpl.java
+/home/ext_acvalenzuela/Documentos/TalentoDigital/fullstackapp/apispringdevops/src/main/java/cl/kibernumacademy/apirest/models/services/IStudentService.java
+/home/ext_acvalenzuela/Documentos/TalentoDigital/fullstackapp/apispringdevops/src/main/java/cl/kibernumacademy/apirest/DevopsApirestApplication.java
+/home/ext_acvalenzuela/Documentos/TalentoDigital/fullstackapp/apispringdevops/src/main/java/cl/kibernumacademy/apirest/controllers/StudentRestController.java
